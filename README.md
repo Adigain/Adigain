@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 
-🎓 I'm a **Computer Science** Sophomore at **IIT BHU**.<br>👀 Interested in **Competitive Programming**, **Development** and **Machine Learning & Deep Learning**.<br>🌱 Currently learning Golang & PostgreSQL.<br>💞️ Looking to collaborate on Open Source Projects.<br>😄 Pronouns: He/Him<br>📫 Reach me at: adipta.gain@gmail.com
+🎓 I'm a **Computer Science** Sophomore at **IIT BHU**.<br>👀 Interested in **Competitive Programming**, **Development** and **Machine Learning & Deep Learning**.<br>🌱 Currently learning Golang & PostgreSQL.<br>💞️ Looking to collaborate on Open Source Projects.📫 Reach me at: adipta.gain@gmail.com
 
 
 ## 🌐 Socials:
