@@ -3,9 +3,9 @@
 
 ## 💫 About Me:
 
-🎓 I'm a **Computer Science** Sophomore at **IIT BHU**.<br>
+🎓 I'm a **Computer Science** student at **IIT BHU**.<br>
 👀 Interested in **Competitive Programming**, **Development**, and **Machine Learning & Deep Learning**.<br>
-🌱 Currently learning **Golang** & **PostgreSQL**.<br>
+🌱 Currently learning **Golang**.<br>
 💞️ Looking to collaborate on **Open Source Projects**.<br>
 📫 Reach me at: **adipta.gain@gmail.com**
 
@@ -52,7 +52,6 @@
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
